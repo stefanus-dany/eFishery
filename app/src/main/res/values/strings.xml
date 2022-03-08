@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">eFishery</string>
+    <string name="komoditas">Komoditas: %s</string>
+    <string name="area_provinsi">Area Provinsi: %s</string>
+    <string name="area_kota">Area Kota: %s</string>
+    <string name="size">Size: %s</string>
+    <string name="price">Price: %s</string>
+    <string name="uuid">Uuid: %s</string>
+    <string name="tgl_parsed">Tgl Parsed: %s</string>
+    <string name="timestamp">Timestamp: %s</string>
+    <string name="data_is_empty">Data is empty!</string>
+    <string name="fabutton">FAButton</string>
+    <string name="tv_komoditas">Komoditas</string>
+    <string name="tv_area_provinsi">Area Provinsi</string>
+    <string name="tv_area_kota">Area Kota</string>
+    <string name="tv_size">Size</string>
+    <string name="tv_price">Price</string>
+    <string name="tv_add_data">Add Data</string>
+    <string name="komoditas_empty">Please enter komoditas!</string>
+    <string name="area_provinsi_empty">Please enter area provinsi!</string>
+    <string name="area_kota_empty">Please enter area kota!</string>
+    <string name="size_empty">Please enter size!</string>
+    <string name="price_empty">Please enter price!</string>
+    <string name="tv_filter_province">Filter Province</string>
+    <string name="tv_add_filter">Add Filter</string>
+    <string name="tv_filter_city">Filter City</string>
+    <string name="tv_filter_size">Filter Size</string>
+
+</resources>
